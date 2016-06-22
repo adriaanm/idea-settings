@@ -1,0 +1,14 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="Scala" />
+  </component>
+</application>
