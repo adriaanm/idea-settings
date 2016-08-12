@@ -8,6 +8,8 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.scala" value="Scala" />
@@ -22,7 +24,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" value="TEXT" />
   </component>
 </application>
