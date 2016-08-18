@@ -1,6 +1,7 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/CorrelationId.java" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/diffstrap" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" value="JAVA" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
@@ -12,7 +13,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="Scala" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="Scala" />
