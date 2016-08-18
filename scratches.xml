@@ -14,7 +14,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="Scala" />
@@ -40,5 +39,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" value="TEXT" />
+    <file url="file://$USER_HOME$/git/scala/test/files/run/lazy_local_labels.scala" value="Scala" />
   </component>
 </application>
