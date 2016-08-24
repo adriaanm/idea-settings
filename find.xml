@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="Module 'compiler'" />
+    <option name="defaultScopeName" value="Module 'compiler'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Module 'compiler'" />
     <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
