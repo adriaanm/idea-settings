@@ -12,7 +12,7 @@
   </component>
   <component name="ScalaSettings">
     <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
-    <option name="COMPILE_SERVER_PORT" value="50257" />
+    <option name="COMPILE_SERVER_PORT" value="55131" />
     <option name="COMPILE_SERVER_ID" value="0c32eafb-461c-4e27-9987-2bdd81ffc1da" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
   </component>
