@@ -1,56 +1,56 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/CorrelationId.java" value="JAVA" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/diffstrap" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" value="JAVA" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/commit message.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/diffstrap.sh" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Scala" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" value="JAVA" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="Scala" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_25.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_26.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_27.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_28.scala" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_29.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="Scala" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" value="TEXT" />
   </component>
